@@ -1,0 +1,15 @@
+.idea
+.tags
+.tags_sorted_by_file
+bin/
+db/*.sqlite3
+log/
+tmp/*
+vendor/bundle
+vendor/cache
+public/system
+public/assets
+.DS_Store
+coverage/
+*.log
+.env
