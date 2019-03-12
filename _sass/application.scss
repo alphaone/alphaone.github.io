@@ -1,5 +1,61 @@
 @charset "utf-8";
+@import "breakpoints";
 
 body {
-  background-color: #ddd;
+    background-color: white;
+    color: #222;
+    font-size: 125%;
+    margin: 0;
+    font-family: 'Cormorant', serif;
+}
+
+main {
+    margin: 20px;
+    @include md {
+        margin: 0 auto;
+        width: calc(#{$screen-md-min} - 40px)
+    }
+}
+
+h1, h2, h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+section.about {
+    strong {
+        background-color: #fffd91;
+        font-weight: inherit;
+        border-radius: 3px;
+        padding: 0 5px;
+    }
+    ul {
+        padding-left: 30px;
+    }
+}
+
+section.beliefs {
+    strong {
+        background-color: #ff91fd;
+        font-weight: inherit;
+        border-radius: 3px;
+        padding: 0 5px;
+    }
+}
+
+footer {
+    padding-top: 20px;
+    background-color: #eee;
+    border-top: 1px solid #ddd;
+    color: #666;
+
+    text-align: center;
+
+    ul {
+        list-style: none;
+        padding-left: 0;
+
+        li {
+            display: inline;
+        }
+    }
 }

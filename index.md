@@ -6,9 +6,13 @@ layout: default
 
 {% include hello.md %}
 
+
+<section class="about" markdown="1">
+
 ## Über mich
 
 {% include about.md %}
+</section>
 
 ## Was hab ich so getan?
 
@@ -19,15 +23,19 @@ layout: default
 * tools
 * monitoring
 
+<section class="beliefs" markdown="1">
+
 ## Meine Überzeugungen
 
-no silver bullet
-continuous improvement, retro
-quality
-naming things
-pairing
-monitoring (wissen, nicht glauben) Transparenz
-tools
+* **no silver bullet**
+* continuous improvement, retro
+* quality
+* **naming things**
+* pairing
+* monitoring (wissen, nicht glauben) Transparenz
+* tools
 
+</section>
 
 ## get in touch
+
