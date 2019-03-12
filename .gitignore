@@ -4,3 +4,5 @@ _site
 /vendor/bundle
 /vendor/cache
 .DS_Store
+.idea
+*.iml
