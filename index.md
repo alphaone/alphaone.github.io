@@ -6,7 +6,6 @@ layout: default
 
 {% include hello.md %}
 
-
 <section class="about" markdown="1">
 
 ## Über mich
@@ -14,28 +13,20 @@ layout: default
 {% include about.md %}
 </section>
 
+<section class="past" markdown="1">
+
 ## Was hab ich so getan?
 
-* Aufbau microservice Architektur
-* streaming apps
-* lose gekoppelte komponenten
-* moved micro service landscape to AWS
-* tools
-* monitoring
+{% include past.md %}
+</section>
 
 <section class="beliefs" markdown="1">
 
 ## Meine Überzeugungen
 
-* **no silver bullet**
-* continuous improvement, retro
-* quality
-* **naming things**
-* pairing
-* monitoring (wissen, nicht glauben) Transparenz
-* tools
-
+{% include beliefs.md%}
 </section>
 
-## get in touch
+## Schreiben Sie mir
 
+...

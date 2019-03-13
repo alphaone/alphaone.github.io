@@ -21,29 +21,47 @@ h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
 }
 
+ul {
+    padding-left: 1.5em;
+    li {
+        margin-bottom: 0.5em;
+    }
+}
+
+li > p {
+    margin: 0;
+}
+
+section strong, section em {
+    font-weight: inherit;
+    border-radius: 3px;
+    padding: 0 5px;
+}
+
 section.about {
     strong {
         background-color: #fffd91;
-        font-weight: inherit;
-        border-radius: 3px;
-        padding: 0 5px;
     }
-    ul {
-        padding-left: 30px;
+
+}
+
+section.past {
+    strong {
+        background-color: #91fdff;
+    }
+    em {
+        background-color: #eee;
     }
 }
 
 section.beliefs {
     strong {
         background-color: #ff91fd;
-        font-weight: inherit;
-        border-radius: 3px;
-        padding: 0 5px;
     }
 }
 
 footer {
-    padding-top: 20px;
+    padding-top: 1em;
     background-color: #eee;
     border-top: 1px solid #ddd;
     color: #666;
