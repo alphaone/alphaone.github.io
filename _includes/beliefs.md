@@ -1,3 +1,5 @@
+<img class="head" src="/assets/work.png">
+
 Für den Fall, dass Ihre Überzeugungen sich nicht mit meinen decken, sollten
 wir uns unbedingt unterhalten. Ich würde gern hören, mit welchen Prinzipien
 Sie ihre Projekte erfolgreich meistern.

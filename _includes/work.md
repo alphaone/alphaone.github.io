@@ -1,3 +1,5 @@
+<img class="head" src="/assets/work.png">
+
 * Für eine große deutsche E-Commerce-Plattform haben wir dessen Recommendation-Lösung
   mit einer **polyglotten Microservice Architektur** aufgebaut und als 
   vorbildliche DevOps selbst betrieben.  

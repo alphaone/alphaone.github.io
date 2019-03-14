@@ -17,8 +17,16 @@ main {
     }
 }
 
+.clear {
+    clear: both
+}
+
 h1, h2, h3 {
     font-family: 'Roboto', sans-serif;
+    text-align: center;
+}
+h3 {
+    font-size: 100%;
 }
 
 ul {
@@ -32,10 +40,35 @@ li > p {
     margin: 0;
 }
 
+section + section {
+    margin-top: 5em;
+}
+
 section strong, section em {
     font-weight: inherit;
     border-radius: 3px;
     padding: 0 5px;
+}
+
+section img.head {
+    height: 75px;
+    display: block;
+    margin: 0 auto;
+}
+
+section.hello {
+    img.profile {
+        display: block;
+        margin: 0 auto 1em;
+        height: 200px;
+
+        @include sm {
+            float: left;
+            margin: 0 1em 1em 0;
+        }
+    }
+
+
 }
 
 section.about {
@@ -43,14 +76,26 @@ section.about {
         background-color: #fffd91;
     }
 
+    img.about {
+        height: 75px;
+        display: block;
+        margin: 0 auto;
+    }
+
 }
 
-section.past {
+section.work {
     strong {
         background-color: #91fdff;
     }
     em {
         background-color: #eee;
+    }
+
+    img.work {
+        height: 75px;
+        display: block;
+        margin: 0 auto;
     }
 }
 

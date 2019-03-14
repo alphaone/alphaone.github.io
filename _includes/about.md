@@ -1,4 +1,6 @@
-Ich bin ein Generalist und konnte mittlerweile 20 Jahre Erfahrung in der
+<img class="head" src="/assets/about.png">
+
+Ich werde gerne als Generalist bezeichnet und konnte mittlerweile 20 Jahre Erfahrung in der
 Softwareentwicklung sammeln. Da ich mich immer zwischen den Rollen
 **Entwickler, Tester und Coach** bewegt habe, werde ich schnell zu einer
 echten Bereicherung für jedes cross-funktionale Team.
