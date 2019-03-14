@@ -4,16 +4,16 @@
 body {
     background-color: white;
     color: #222;
-    font-size: 125%;
+    font-size: 150%;
     margin: 0;
     font-family: 'Cormorant', serif;
 }
 
 main {
     margin: 20px;
-    @include md {
+    @include lg {
         margin: 0 auto;
-        width: calc(#{$screen-md-min} - 40px)
+        width: calc(#{$screen-lg-min} - 40px)
     }
 }
 
