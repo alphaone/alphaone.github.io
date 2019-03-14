@@ -26,13 +26,31 @@ eines Teams an dessen Bedürfnisse anzupassen.
 
 ### Qualität
 
-Man braucht keine Tester, um für Qualität zu sorgen.
+Man braucht keine Tester, um für Qualität zu sorgen. Jedes Teammitglied kann
+die Denkweise eines Testers erlernen und verinnerlichen und so die Qualität 
+des Produktes von Anfang an positiv beeinflussen. Dazu braucht es 
+Qualitäts-Advokaten, die das Team bei diesem Lernprozess anleiten und begleiten.
 
 ### Transparenz
 
 **Glauben ist nicht Wissen**. Nur mit korrekt gemessenen Daten, kann man
-fundierte Entscheidungen treffen. Alles andere wäre Raten. Ein vernünftiges
-Monitoring erhöht die Qualität eines Produktes genauso wie vernünftige Tests.
+fundierte Entscheidungen treffen. Alles andere wäre Raten. Die Transparenz
+eines Produktes kann mit einem umfassenden Monitoring erhöht werden. 
+
+Genauso sorgen Tests durch ihre Fähigkeit essentielle Sachverhalte zu 
+verifizieren und zu dokumentieren für ein klareres Bild von inneren 
+Abläufen in einem System.
+
+### Testpyramide
+
+Zu viele Tests auf der falschen Ebene der Testpyramide, machen Tests langsam,
+instabil, unnötig kompliziert und schwer zu warten. Damit einher gehen die Vorteile
+einer guten Testsuite verloren: das Sicherheitsnetz für schnelle Anpassbarkeit 
+und das Vertrauen in die Qualität der Software.
+
+Eine gut ausbalancierte Testpyramide hingegen sorgt für schnelles Feedback, zeigt
+welche Änderungen zu ungewollten Nebeneffekten geführt haben und verifiziert 
+sowohl die Korrektheit einzelner Komponenten als auch deren korrektes Zusammenspiel.
 
 <!--### tools-->
 <!--### CI / Devops-->
