@@ -2,123 +2,123 @@
 @import "breakpoints";
 
 body {
-    background-color: white;
-    color: #222;
-    font-size: 150%;
-    margin: 0;
-    font-family: 'Cormorant', serif;
+  background-color: white;
+  color: #222;
+  font-size: 150%;
+  margin: 0;
+  font-family: 'Cormorant', serif;
 }
 
 main {
-    margin: 20px;
-    @include lg {
-        margin: 0 auto;
-        width: calc(#{$screen-lg-min} - 40px)
-    }
+  margin: 20px;
+  @include lg {
+    margin: 0 auto;
+    width: calc(#{$screen-lg-min} - 40px)
+  }
 }
 
 .clear {
-    clear: both
+  clear: both
 }
 
 h1, h2, h3 {
-    font-family: 'Roboto', sans-serif;
-    text-align: center;
+  font-family: 'Roboto', sans-serif;
+  text-align: center;
 }
 h3 {
-    font-size: 100%;
+  font-size: 100%;
 }
 
 ul {
-    padding-left: 1.5em;
-    li {
-        margin-bottom: 0.5em;
-    }
+  padding-left: 1.5em;
+  li {
+    margin-bottom: 0.5em;
+  }
 }
 
 li > p {
-    margin: 0;
+  margin: 0;
 }
 
 section + section {
-    margin-top: 5em;
+  margin-top: 5em;
 }
 
 section strong, section em {
-    font-weight: inherit;
-    border-radius: 3px;
-    padding: 0 5px;
+  font-weight: inherit;
+  border-radius: 3px;
+  padding: 0 5px;
 }
 
 section img.head {
-    height: 75px;
-    display: block;
-    margin: 0 auto;
+  height: 75px;
+  display: block;
+  margin: 0 auto;
 }
 
 section.hello {
-    img.profile {
-        display: block;
-        margin: 0 auto 1em;
-        height: 200px;
+  img.profile {
+    display: block;
+    margin: 0 auto 1em;
+    height: 200px;
 
-        @include sm {
-            float: left;
-            margin: 0 1em 1em 0;
-        }
+    @include sm {
+      float: left;
+      margin: 0 1em 1em 0;
     }
+  }
 
 
 }
 
 section.about {
-    strong {
-        background-color: #fffd91;
-    }
+  strong {
+    background-color: #bcffc2;
+  }
 
-    img.about {
-        height: 75px;
-        display: block;
-        margin: 0 auto;
-    }
+  img.about {
+    height: 75px;
+    display: block;
+    margin: 0 auto;
+  }
 
 }
 
 section.work {
-    strong {
-        background-color: #91fdff;
-    }
-    em {
-        background-color: #eee;
-    }
+  strong {
+    background-color: #C4FEFF;
+  }
+  em {
+    background-color: #eee;
+  }
 
-    img.work {
-        height: 75px;
-        display: block;
-        margin: 0 auto;
-    }
+  img.work {
+    height: 75px;
+    display: block;
+    margin: 0 auto;
+  }
 }
 
 section.beliefs {
-    strong {
-        background-color: #ff91fd;
-    }
+  strong {
+    background-color: #FBA5EA;
+  }
 }
 
 footer {
-    padding-top: 1em;
-    background-color: #eee;
-    border-top: 1px solid #ddd;
-    color: #666;
+  padding-top: 1em;
+  background-color: #eee;
+  border-top: 1px solid #ddd;
+  color: #666;
 
-    text-align: center;
+  text-align: center;
 
-    ul {
-        list-style: none;
-        padding-left: 0;
+  ul {
+    list-style: none;
+    padding-left: 0;
 
-        li {
-            display: inline;
-        }
+    li {
+      display: inline;
     }
+  }
 }

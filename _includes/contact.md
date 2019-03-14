@@ -1,0 +1,3 @@
+<img class="head" src="/assets/contact.png">
+
+...

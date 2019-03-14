@@ -1,4 +1,4 @@
-<img class="head" src="/assets/work.png">
+<img class="head" src="/assets/belief.png">
 
 Für den Fall, dass Ihre Überzeugungen sich nicht mit meinen decken, sollten
 wir uns unbedingt unterhalten. Ich würde gern hören, mit welchen Prinzipien
@@ -48,7 +48,7 @@ instabil, unnötig kompliziert und schwer zu warten. Damit einher gehen die Vort
 einer guten Testsuite verloren: das Sicherheitsnetz für schnelle Anpassbarkeit 
 und das Vertrauen in die Qualität der Software.
 
-Eine gut ausbalancierte Testpyramide hingegen sorgt für schnelles Feedback, zeigt
+Eine **gut ausbalancierte Testpyramide** hingegen sorgt für schnelles Feedback, zeigt
 welche Änderungen zu ungewollten Nebeneffekten geführt haben und verifiziert 
 sowohl die Korrektheit einzelner Komponenten als auch deren korrektes Zusammenspiel.
 
