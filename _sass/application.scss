@@ -112,11 +112,25 @@ section.beliefs {
   }
 }
 
+section.contact {
+  ul {
+    display: flex;
+    list-style: none;
+    padding-left: 0;
+    justify-content: center;
+    flex-wrap: wrap;
+    
+    li {
+      margin: 1em;
+    }
+  }
+}
+
 footer {
   padding-top: 1em;
   background-color: #eee;
   border-top: 1px solid #ddd;
-  color: #666;
+  color: #888;
 
   font-size: 80%;
   text-align: center;

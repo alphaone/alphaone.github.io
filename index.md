@@ -30,7 +30,7 @@ layout: default
 {% include beliefs.md%}
 </section>
 
-<section class="beliefs" markdown="1">
+<section class="contact" markdown="1">
 
 ## Schreiben Sie mir
 
