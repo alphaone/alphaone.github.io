@@ -1,7 +1,7 @@
 <img class="head" src="/assets/belief.png">
 
 Für den Fall, dass Ihre Überzeugungen sich nicht mit meinen decken, sollten
-wir uns unbedingt unterhalten. Ich würde gern hören, mit welchen Prinzipien
+wir uns [unbedingt unterhalten](#contact). Ich würde gern hören, mit welchen Prinzipien
 Sie ihre Projekte erfolgreich meistern.
 
 ### There is no silver bullet 

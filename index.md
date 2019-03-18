@@ -31,6 +31,7 @@ layout: default
 </section>
 
 <section class="contact" markdown="1">
+<a name="contact">
 
 ## Schreiben Sie mir
 
