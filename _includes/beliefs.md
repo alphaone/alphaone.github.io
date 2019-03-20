@@ -1,15 +1,13 @@
 <img class="head" src="/assets/belief.png">
 
-Für den Fall, dass Ihre Überzeugungen sich nicht mit meinen decken, sollten
-wir uns [unbedingt unterhalten](#contact). Ich würde gerne hören, mit welchen 
-Prinzipien Sie ihre Projekte erfolgreich meistern.
+In case that your beliefs do not match mine, we should definitely 
+[have a word](#contact).
+I would love to hear which principles are making your projects successful.
 
 ### There is no silver bullet 
 
-Es gibt keine Best Practices. Keine einzelne
-Technologie kann die Antwort auf bestehende Probleme sein.
-Jede Herausforderung muss in ihrem Kontext der aktuellen Gegebenheiten gesehen 
-werden. 
+There is no best practices. No single technology can be the answer for an exisiting problem.
+Each challenge has to be seen in it's context of the current circumstances.
 
 ### Continuous Improvement
 
@@ -18,36 +16,33 @@ werden.
 0.99 ^ 365 =  0.02
 ```
 
-Nur wenn sich ein Team jeden einzelnen Tag verbessern will, kann es große
-Dinge vollbringen. Retrospektiven mit **Ursachenforschung ohne Schuldzuweisungen**
-sind der Grundbaustein für die kontinuierliche Verbesserung in einem Team.
-Kleine Experimente mit messbaren Resultaten helfen die Struktur und Arbeitsweise
-eines Teams an dessen Bedürfnisse anzupassen.
+Only if a team wants to improve itself every single day, it can achieve great things.
+Retrospectives with their **blameless causal investigation** are cornerstones for the
+continuous improvement of a team. Small experiments with measurable results help to 
+adapt the team's structure and mode of operation to its current needs.   
 
-### Qualität
+### Quality
 
-Man braucht keine Tester, um für Qualität zu sorgen. Jedes Teammitglied kann
-die Denkweise eines Testers erlernen und verinnerlichen und so die Qualität 
-des Produktes von Anfang an positiv beeinflussen. Dazu braucht es 
-Qualitäts-Advokaten, die das Team bei diesem Lernprozess anleiten und begleiten.
+**You don't need testers to ensure quality**. Every team member can learn and internalize
+the critical thinking of a tester and so influence the quality of the product right from
+the start. You may need quality advocates to accompany and guide the team in this process.
 
-### Transparenz
+### Transparency
 
-**Glauben ist nicht Wissen**. Nur mit korrekt gemessenen Daten, kann man
-fundierte Entscheidungen treffen. Alles andere wäre Raten. Die Transparenz
-eines Produktes kann mit einem umfassenden Monitoring erhöht werden. 
+**Believing is not knowing**. Only with correctly measured data, one can make
+informed decisions. Everything else is guessing. The transparency of a product
+can be improved with a comprehensive monitoring solution.
 
-Genauso sorgen Tests durch ihre Fähigkeit, essentielle Sachverhalte zu 
-verifizieren und zu dokumentieren, für ein klareres Bild von inneren 
-Abläufen in einem System.
+In the same way can tests, with their ability to verify and document essential aspects,
+deliver a clearer picture of internal processes of a system.
 
-### Testpyramide
+### Test pyramid
 
-Zu viele Tests auf der falschen Ebene der Testpyramide, machen Tests langsam,
-instabil, unnötig kompliziert und schwer zu warten. Damit einher gehen die Vorteile
-einer guten Testsuite verloren: das Sicherheitsnetz für schnelle Anpassbarkeit 
-und das Vertrauen in die Qualität der Software.
+Too many tests on the wrong level of the test pyramid, make your tests slow
+unstable, unnecessarily complicated and hard to maintain. In the same time
+you loose the biggest advantage of a good test suite: your ability to make changes
+with confidence.
 
-Eine **gut ausbalancierte Testpyramide** hingegen sorgt für schnelles Feedback, zeigt
-welche Änderungen zu ungewollten Nebeneffekten geführt haben und verifiziert 
-sowohl die Korrektheit einzelner Komponenten als auch deren korrektes Zusammenspiel.
+A **nicely balanced test pyramid** on the other hand, gives you fast feedback, shows
+which change led to unwanted side effects and verifies both the correctness of single 
+components and their proper interaction.

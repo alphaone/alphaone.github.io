@@ -26,7 +26,7 @@ eines Teams an dessen Bedürfnisse anzupassen.
 
 ### Qualität
 
-Man braucht keine Tester, um für Qualität zu sorgen. Jedes Teammitglied kann
+**Man braucht keine Tester, um für Qualität zu sorgen**. Jedes Teammitglied kann
 die Denkweise eines Testers erlernen und verinnerlichen und so die Qualität 
 des Produktes von Anfang an positiv beeinflussen. Dazu braucht es 
 Qualitäts-Advokaten, die das Team bei diesem Lernprozess anleiten und begleiten.
@@ -44,9 +44,9 @@ Abläufen in einem System.
 ### Testpyramide
 
 Zu viele Tests auf der falschen Ebene der Testpyramide, machen Tests langsam,
-instabil, unnötig kompliziert und schwer zu warten. Damit einher gehen die Vorteile
-einer guten Testsuite verloren: das Sicherheitsnetz für schnelle Anpassbarkeit 
-und das Vertrauen in die Qualität der Software.
+instabil, unnötig kompliziert und schwer zu warten. Damit einher geht der größte
+Vorteil einer guten Testsuite verloren: Anpassungen an der Software mit hoher 
+Zuversicht durchführen zu können.
 
 Eine **gut ausbalancierte Testpyramide** hingegen sorgt für schnelles Feedback, zeigt
 welche Änderungen zu ungewollten Nebeneffekten geführt haben und verifiziert 
