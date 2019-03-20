@@ -8,28 +8,28 @@ lang: de
 
 ## Hallo
 
-{% include hello.md %}
+{% include de/hello.md %}
 </section>
 
 <section class="about" markdown="1">
 
 ## Wer bin ich?
 
-{% include about.md %}
+{% include de/about.md %}
 </section>
 
 <section class="work" markdown="1">
 
 ## Was habe ich bisher getan?
 
-{% include work.md %}
+{% include de/work.md %}
 </section>
 
 <section class="beliefs" markdown="1">
 
 ## Woran glaube ich?
 
-{% include beliefs.md%}
+{% include de/beliefs.md%}
 </section>
 
 <section class="contact" markdown="1">
@@ -37,5 +37,5 @@ lang: de
 
 ## Schreiben Sie mir
 
-{% include contact.md%}
+{% include de/contact.md%}
 </section>

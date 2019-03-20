@@ -1,10 +1,9 @@
 <img class="profile" src="/assets/torsten.png">
-mein Name ist Torsten Mangner. Ich bin Softwareentwickler
-und Qualitätsexperte.
+my name is Torsten Mangner. I am a software developer and quality expert.
 
-Ich bin sehr daran interessiert, Sie und ihr Projekt kennenzulernen und
-gegebenenfalls zu unterstützen. Wenn Sie ebenfalls Interesse an einer
-Zusammenarbeit haben oder einfach mehr über mich und meine bisherigen
-Tätigkeiten wissen möchten: [Schreiben Sie mir](#contact)
+I am very interested in getting to know you and your project. Maybe there is a
+chance that a can support you. 
+If you are also interested in a collaboration, or want to know
+more about me and my recent work, feel free to [contact me](#contact)
 
 <div class="clear" />
