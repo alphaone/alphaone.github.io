@@ -1,33 +1,33 @@
 ---
 layout: default
 ref: index
-lang: en
+lang: de
 ---
 
 <section class="hello" markdown="1">
 
-## Hello
+## Hallo
 
 {% include hello.md %}
 </section>
 
 <section class="about" markdown="1">
 
-## Who am I?
+## Wer bin ich?
 
 {% include about.md %}
 </section>
 
 <section class="work" markdown="1">
 
-## What have I done?
+## Was habe ich bisher getan?
 
 {% include work.md %}
 </section>
 
 <section class="beliefs" markdown="1">
 
-## What do I believe?
+## Woran glaube ich?
 
 {% include beliefs.md%}
 </section>
@@ -35,7 +35,7 @@ lang: en
 <section class="contact" markdown="1">
 <a name="contact">
 
-## Contact me
+## Schreiben Sie mir
 
 {% include contact.md%}
 </section>

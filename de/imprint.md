@@ -1,26 +1,26 @@
 ---
 layout: legal
 ref: imprint
-lang: en
+lang: de
 ---
 
-# Imprint
+# Impressum
 
-| Adress | inoxio Quality Services GmbH|
+| Anschrift | inoxio Quality Services GmbH|
 ||Anger 13|
 ||D-99084 Erfurt|
-| Executives | Torsten Mangner|
+| Geschäftsführung | Torsten Mangner|
 ||Michael Kunze|
 ||Meik Minks|
-| Commercial Registry | Amtsgericht Jena|
+| Handelsregister | Amtsgericht Jena|
 ||HRB 501358|
-| Sales Tax Identification | DE253820129|
-| Tax Number | 151/111/06662|
+| Umsatzsteuer&shy;identifikationsnummer | DE253820129|
+| Wirtschafts&shy;identifikationsnummer | 151/111/06662|
 | E-Mail | info@inoxio.de|
-| Phone | +49-361-4306456|
+| Telefon | +49-361-4306456|
 | Fax | +49-361-4306457|
 
-### Liability Note
+### Haftungshinweis
 
 Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.
 
