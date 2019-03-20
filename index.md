@@ -25,7 +25,7 @@ layout: default
 
 <section class="beliefs" markdown="1">
 
-## An was glaube ich?
+## Woran glaube ich?
 
 {% include beliefs.md%}
 </section>
