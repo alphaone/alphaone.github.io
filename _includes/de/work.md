@@ -12,11 +12,11 @@
 * Für die eigene Firma habe ich ein maßgeschneidertes **Invoice- and 
   Accounting-Systems** geplant und umgesetzt. Dies wird seit über 10 Jahren 
   erfolgreich eingesetzt und immer wieder erweitert und verbessert.  
-  _Ruby on Rails_, _HTML_ _SCSS_, _Javascript_, _Docker_, _AWS_
+  _Ruby on Rails_, _HTML_, _SCSS_, _Javascript_, _Docker_, _AWS_
   
 * Da bei komplexen Systemen häufig mangelnde Transparenz für mangelnde Qualität
   mitverantwortlich ist, habe ich bei verschiedenen Projekten ganzheitliche 
-  **Monitoring und Alerting**-Lösungen umgesetzt:  
+  **Monitoring und Alerting**-Lösungen umgesetzt.  
   _Clojure_, _ClojureScript_, _Prometheus_, _Grafana_, _Graphite_, _Kibana_
   
 * Neben Zeitreihendaten müssen häufig auch team-spezifische **Daten plakativ 

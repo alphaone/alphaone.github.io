@@ -1,37 +1,37 @@
 <img class="head" src="/assets/work.png">
 
-* Für eine große deutsche E-Commerce-Plattform habe ich mit dem Team eine 
-  Recommendation-Lösung mit einer **polyglotten Microservice Architektur** 
-  aufgebaut und als vorbildliche DevOps haben wir diese selbst betrieben.  
+* For a big german eCommerce platform, my team and I built a recommendation
+  solution with a ployglot microservice architecture. And as good DevOps
+  we ran the operation ourselves.  
   50+ Services, _Clojure_, _Scala_, _Python_, _Kafka_, _Tensorflow_, _Redis_, _REST_
   
-* Die gesamte Microservice-Landschaft haben wir nachträglich und unterbrechungsfrei 
-  aus dem eigenen Rechenzentrum **in Amazons Cloud migriert**.  
+* The whole microservice landscape was migrated from a company-owned
+  data center into **Amazon's Cloud** with zero downtime.  
   _AWS_, _Terraform_
   
-* Für die eigene Firma habe ich ein maßgeschneidertes **Invoice- and 
-  Accounting-Systems** geplant und umgesetzt. Dies wird seit über 10 Jahren 
-  erfolgreich eingesetzt und immer wieder erweitert und verbessert.  
-  _Ruby on Rails_, _HTML_ _SCSS_, _Javascript_, _Docker_, _AWS_
+* For our own company I planned and developed a tailored **invoice and 
+  accounting system**, which is used successfully for over 10 years and is
+  enhanced and improved every now and then.    
+  _Ruby on Rails_, _HTML_, _SCSS_, _Javascript_, _Docker_, _AWS_
   
-* Da bei komplexen Systemen häufig mangelnde Transparenz für mangelnde Qualität
-  mitverantwortlich ist, habe ich bei verschiedenen Projekten ganzheitliche 
-  **Monitoring und Alerting**-Lösungen umgesetzt:  
+* Since in complex systems insufficient transparency is often jointly responsible
+  for poor quality, I established holistic monitoring and alerting solutions
+  for different projects.  
   _Clojure_, _ClojureScript_, _Prometheus_, _Grafana_, _Graphite_, _Kibana_
   
-* Neben Zeitreihendaten müssen häufig auch team-spezifische **Daten plakativ 
-  sichtbar gemacht** werden. Ich habe Tools entwickelt, die dem Team helfen,
-  diese Daten nicht aus den Augen zu verlieren. Diese Tools zeigten u.a.:
+* Besides time series data teams often have to boldly visualize team specific data.
+  I developed tools, so that the teams can monitor those information with ease.
+  These tools showed amongst others:
   
-  - die Anzahl von noch nicht live deployten Commits aller Repos
-  - den Zustand von allen autoskalierten Instanzen in der Cloud
-  - die Dauer und den Status von langlaufenden Jobs
-  - die Qualität von verschiedenen Empfehlungsarten, sodass Fachbereiche diese besser einschätzen konnten 
+  - for each repo, the number of commits, that are not deployed to LIVE yet
+  - the state of all autoscaling instances in the cloud
+  - the run time and status of long running jobs
+  - the quality of various recommendation types, so that stakeholders can evaluate those better 
   
   _Clojure_, _Ruby_, _Python_, _Go_, _HTML_, _SCSS_, _Javascript_, diverse Service-APIs
 
-* Software, die nicht gepflegt wird, rottet schnell vor sich hin. Es ist mir immer
-  ein besonderes Anliegen, die **Code-Qualität als tägliche Routine zu verbessern**.
-  Das Ziel ist es, am Ende des Tages weniger Technischen Schulden, eine bessere 
-  Testabdeckung oder weniger unnötige Komplexität zu haben.
+* Software, that isn't maintained, rots away quickly. I have always a special interest
+  to **improve the code quality** of the software I am working on **as a daily routine**.
+  At the end of the day I want to have less technical debt, better test coverage or less
+  accidental complexity in the system.
   
