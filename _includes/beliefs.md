@@ -1,8 +1,8 @@
 <img class="head" src="/assets/belief.png">
 
 Für den Fall, dass Ihre Überzeugungen sich nicht mit meinen decken, sollten
-wir uns [unbedingt unterhalten](#contact). Ich würde gern hören, mit welchen Prinzipien
-Sie ihre Projekte erfolgreich meistern.
+wir uns [unbedingt unterhalten](#contact). Ich würde gerne hören, mit welchen 
+Prinzipien Sie ihre Projekte erfolgreich meistern.
 
 ### There is no silver bullet 
 
@@ -37,8 +37,8 @@ Qualitäts-Advokaten, die das Team bei diesem Lernprozess anleiten und begleiten
 fundierte Entscheidungen treffen. Alles andere wäre Raten. Die Transparenz
 eines Produktes kann mit einem umfassenden Monitoring erhöht werden. 
 
-Genauso sorgen Tests durch ihre Fähigkeit essentielle Sachverhalte zu 
-verifizieren und zu dokumentieren für ein klareres Bild von inneren 
+Genauso sorgen Tests durch ihre Fähigkeit, essentielle Sachverhalte zu 
+verifizieren und zu dokumentieren, für ein klareres Bild von inneren 
 Abläufen in einem System.
 
 ### Testpyramide
@@ -51,8 +51,3 @@ und das Vertrauen in die Qualität der Software.
 Eine **gut ausbalancierte Testpyramide** hingegen sorgt für schnelles Feedback, zeigt
 welche Änderungen zu ungewollten Nebeneffekten geführt haben und verifiziert 
 sowohl die Korrektheit einzelner Komponenten als auch deren korrektes Zusammenspiel.
-
-<!--### tools-->
-<!--### CI / Devops-->
-<!--### naming things-->
-<!--### pairing-->

@@ -11,21 +11,21 @@ layout: default
 
 <section class="about" markdown="1">
 
-## Über mich
+## Wer bin ich?
 
 {% include about.md %}
 </section>
 
 <section class="work" markdown="1">
 
-## Was hab ich so getan?
+## Was habe ich bisher getan?
 
 {% include work.md %}
 </section>
 
 <section class="beliefs" markdown="1">
 
-## Meine Überzeugungen
+## An was glaube ich?
 
 {% include beliefs.md%}
 </section>

@@ -16,18 +16,18 @@ zu teilen. Dies tue ich, indem ich in der täglichen Arbeit zeige:
 
 Seit einigen Jahren fühle ich mich in der **Funktionalen Programmierung** zu
 Hause, habe aber auch reichlich Erfahrung mit "klassischen" Paradigmen sammeln
-dürfen. Als **polyglotter Entwickler** schau ich mir gerne neue Sprachen an
+dürfen. Als **polyglotter Entwickler**, schaue ich mir gerne neue Sprachen an
 und versuche deren Besonderheiten und Stärken zu erkennen und zu nutzen.
 
 Immer wenn ich etwas länger in Projekten verweile, ergibt es sich, dass ich
 mit Kolleg*innen **Communities of Practice** (z.B. Softwarecraft, Testing)
-gründe um den Austausch auch über Team und Unternehmensgrenzen hinweg zu
+gründe, um den Austausch auch über Team- und Unternehmensgrenzen hinweg zu
 fördern. Zusätzlich besuche ich regelmässig **Meetups und Konferenzen**
-(sowohl als Speaker als auch Zuhörer) um immer wieder über meinen eigenen
-Tellerrand hinaus schauen zu können.
+(sowohl als Speaker als auch als Zuhörer) um immer wieder über meinen eigenen
+Tellerrand hinaus zuschauen.
 
 Um erfolgreicher unsere Ideen von moderner Softwareentwicklung in die Welt
 tragen zu können, habe ich 2007 mit zwei Freunden unsere **Firma gegründet**:
-[inoxio Quality Services](https://inoxio.de).
-Seitdem haben deutschlandweit unzählige Projekte unsere Hilfe in den
+[inoxio Quality Services GmbH](https://inoxio.de).
+Seitdem haben deutschlandweit unzählige Projekte unser Know-How in den
 Bereichen Entwicklung, Testing und Operations in Anspruch genommen.
