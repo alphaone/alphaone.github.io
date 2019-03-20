@@ -1,33 +1,32 @@
 <img class="head" src="/assets/about.png">
 
-Ich werde gerne als Generalist bezeichnet und konnte mittlerweile 20 Jahre Erfahrung in der
-Softwareentwicklung sammeln. Da ich mich immer zwischen den Rollen
-**Entwickler, Tester und Coach** bewegt habe, werde ich schnell zu einer
-echten Bereicherung für jedes cross-funktionale Team.
+I like to be called a generalist and was able to gain experience in software
+development over the last 20 years. Since I am used to switch roles between
+**developer, tester and coach**, I tend to fastly become a real enrichment
+for every cross-functional team.
 
-Als erfahrener **Softwareentwickler mit starkem Fokus auf Qualität**,
-ist es mein Ziel mein Wissen und meine Erfahrung mit meinen Teamkolleg*innen
-zu teilen. Dies tue ich, indem ich in der täglichen Arbeit zeige:
-* wie man sauberen, lesbaren und verständlichen (und damit wartbaren) Code schreibt
-* wie die richtigen Tests bei der Entwicklung helfen und nicht etwa stören
-* wie alle Teammitglieder das kritische Denken eines Testers verinnerlichen können
-* wie Continuous Delivery für mehr Qualität und weniger Risiko sorgen kann
-* wie ein Mindestmaß an Dokumentation jedem im Team helfen kann
+As an experienced **software developer with a strong focus on quality**,
+I aim for sharing my knowledge and experiences with my team colleagues.
+I do that by setting a good example and showing during my daily work how to:
+* write clean, readable and comprehensible (and therefor maintainable) code
+* write the right tests, so that they guide and help you, instead of hinder you
+* learn and internalize the critical thinking of a tester
+* use Continuous Delivery to improve quality and reduce risk
+* use a minimum of documentation to help everyone on the team
 
-Seit einigen Jahren fühle ich mich in der **Funktionalen Programmierung** zu
-Hause, habe aber auch reichlich Erfahrung mit "klassischen" Paradigmen sammeln
-dürfen. Als **polyglotter Entwickler**, schaue ich mir gerne neue Sprachen an
-und versuche deren Besonderheiten und Stärken zu erkennen und zu nutzen.
+Since a couple of years I fell as a part of the **functional programming** community, 
+but also had the chance to gain alot of experience with "classical" paradigms.
+As a **polyglot developer**, I look into new languages and concepts every now and than,
+and try to recognize and leverage their unique strengths. 
 
-Immer wenn ich etwas länger in Projekten verweile, ergibt es sich, dass ich
-mit Kolleg*innen **Communities of Practice** (z.B. Softwarecraft, Testing)
-gründe, um den Austausch auch über Team- und Unternehmensgrenzen hinweg zu
-fördern. Zusätzlich besuche ich regelmässig **Meetups und Konferenzen**
-(sowohl als Speaker als auch als Zuhörer) um immer wieder über meinen eigenen
-Tellerrand hinaus zuschauen.
+Whenever I am in project for a longer time, I tend to found **communities of
+practice** (e.g. software craft, testing) with colleagues of mine, to encourage
+knowledge exchange between different teams or even companies. Additionally
+I regularly visit **meet ups and conferences** (both as speaker and as attendee) 
+to see further than the end of my own nose.
 
-Um erfolgreicher unsere Ideen von moderner Softwareentwicklung in die Welt
-tragen zu können, habe ich 2007 mit zwei Freunden unsere **Firma gegründet**:
-[inoxio Quality Services GmbH](https://inoxio.de).
-Seitdem haben deutschlandweit unzählige Projekte unser Know-How in den
-Bereichen Entwicklung, Testing und Operations in Anspruch genommen.
+To be able to successfully bring our ideas of modern software development into 
+the world, I **founded a company** named [inoxio Quality Services GmbH](https://inoxio.de) 
+together with two friends in 2007. Since then countless projects all
+over Germany utilised our know-how in the fields of development, testing and 
+operations.
