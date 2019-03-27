@@ -1,3 +1,5 @@
+<img class="head" src="/assets/testimonials.png">
+
 {% assign testimonials = site.testimonials | reverse %}
 {% for testimonial in testimonials %}
   <div class="testimonial">
