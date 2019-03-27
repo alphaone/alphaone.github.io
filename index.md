@@ -32,6 +32,13 @@ lang: en
 {% include beliefs.md%}
 </section>
 
+<section class="testimonials" markdown="1">
+
+## Testimonials
+
+{% include testimonials.md%}
+</section>
+
 <section class="contact" markdown="1">
 <a name="contact">
 
