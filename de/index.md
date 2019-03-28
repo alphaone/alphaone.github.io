@@ -32,6 +32,13 @@ lang: de
 {% include de/beliefs.md%}
 </section>
 
+<section class="testimonials" markdown="1">
+
+## Was sagen ehemalige Kollegen?
+
+{% include testimonials.md%}
+</section>
+
 <section class="contact" markdown="1">
 <a name="contact">
 

@@ -34,7 +34,7 @@ lang: en
 
 <section class="testimonials" markdown="1">
 
-## Testimonials
+## What are former colleagues saying? 
 
 {% include testimonials.md%}
 </section>
