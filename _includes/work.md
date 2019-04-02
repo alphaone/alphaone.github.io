@@ -35,3 +35,6 @@
   At the end of the day I want to have less technical debt, better test coverage or less
   accidental complexity in the system.
   
+If you need a traditional CV with a list of all my skills, known languages or tools 
+and all projects that I worked on, you can find that here: 
+[Profile Torsten Mangner](/assets/profil_torsten_mangner.pdf).

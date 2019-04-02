@@ -35,3 +35,6 @@
   Das Ziel ist es, am Ende des Tages weniger Technischen Schulden, eine bessere 
   Testabdeckung oder weniger unnötige Komplexität zu haben.
   
+Wenn sie ein eher traditionelles Profil brauchen (mit all meinen Skills, beherrschten Sprachen und Werkzeugen
+und allen Projekten bei denen ich mitgearbeitet habe), dann können Sie dies hier finden: 
+[Profile Torsten Mangner](/assets/profil_torsten_mangner.pdf).
