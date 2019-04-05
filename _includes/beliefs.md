@@ -6,8 +6,8 @@ I would love to hear which principles are making your projects successful.
 
 ### There is no silver bullet 
 
-There is no best practices. No single technology can be the answer for an exisiting problem.
-Each challenge has to be seen in it's context of the current circumstances.
+There are no best practices. No single technology can be the answer to an existing problem.
+Each challenge has to be seen in the context of the current circumstances.
 
 ### Continuous Improvement
 
@@ -38,11 +38,11 @@ deliver a clearer picture of internal processes of a system.
 
 ### Test pyramid
 
-Too many tests on the wrong level of the test pyramid, make your tests slow
-unstable, unnecessarily complicated and hard to maintain. In the same time
-you loose the biggest advantage of a good test suite: your ability to make changes
+Too many tests on the wrong level of the test pyramid make your tests slow, 
+unstable, unnecessarily complicated, and hard to maintain. In the same time,
+you lose the biggest advantage of a good test suite: your ability to make changes
 with confidence.
 
-A **nicely balanced test pyramid** on the other hand, gives you fast feedback, shows
+A **nicely balanced test pyramid**, on the other hand, gives you fast feedback, shows
 which change led to unwanted side effects and verifies both the correctness of single 
 components and their proper interaction.
