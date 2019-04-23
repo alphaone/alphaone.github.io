@@ -112,21 +112,8 @@ section.beliefs {
   }
 }
 
-section.contact {
-  ul {
-    display: flex;
-    list-style: none;
-    padding-left: 0;
-    justify-content: center;
-    flex-wrap: wrap;
-    
-    li {
-      margin: 1em;
-    }
-  }
-}
-
 footer {
+  margin-top: 2em;
   padding-top: 1em;
   background-color: #eee;
   border-top: 1px solid #ddd;
@@ -147,3 +134,4 @@ footer {
 
 @import "navigation";
 @import "testimonials";
+@import "contact";

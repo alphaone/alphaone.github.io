@@ -2,5 +2,10 @@
 
 * [tm@inox.io](mailto:tm@inox.io)
 * [@diegofrings](https://twitter.com/diegofrings)
-* [+49-361-4306456](tel:+49-361-4306456)
-* [Xing Profil](https://www.xing.com/profile/Torsten_Mangner)
+* [+49-163-1632509](tel:+49-163-1632509)
+
+---
+
+* [GitHub Profile](https://github.com/alphaone)
+* [LinkedIn Profile](https://www.linkedin.com/in/torstenmangner)
+* [Xing Profile](https://www.xing.com/profile/Torsten_Mangner)
