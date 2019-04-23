@@ -1,11 +1,9 @@
 <img class="head" src="/assets/contact.png">
 
-* [tm@inox.io](mailto:tm@inox.io)
-* [@diegofrings](https://twitter.com/diegofrings)
-* [+49-163-1632509](tel:+49-163-1632509)
+* <a href="mailto:tm@inox.io"><img class="contact" src="/assets/email.png" title="e-Mail: tm@inox.io"></a>
+* <a href="https://twitter.com/diegofrings"><img class="contact" src="/assets/twitter.png" title="Twitter: @diegofrings"></a>
+* <a href="tel:+49-163-1632509"><img class="contact" src="/assets/phone.png" title="Telefon: +49-163-1632509"></a>
 
----
-
-* [GitHub Profil](https://github.com/alphaone)
-* [LinkedIn Profil](https://www.linkedin.com/in/torstenmangner)
-* [Xing Profil](https://www.xing.com/profile/Torsten_Mangner)
+* <a href="https://github.com/alphaone"><img class="contact" src="/assets/github.png" title="GitHub Profil"></a>
+* <a href="https://www.linkedin.com/in/torstenmangner"><img class="contact" src="/assets/linkedin.png" title="LinkedIn Profil"></a>
+* <a href="https://www.xing.com/profile/Torsten_Mangner"><img class="contact" src="/assets/xing.png" title="Xing Profil"></a>

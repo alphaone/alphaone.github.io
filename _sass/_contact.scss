@@ -8,11 +8,12 @@ section.contact {
 
     li {
       margin: 0.5em 1em;
+      text-align: center;
+
+      img.contact {
+        height: 50px;
+      }
     }
-  }
-  
-  hr {
-    display: none;
   }
   
 }
