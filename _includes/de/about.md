@@ -17,7 +17,9 @@ zu teilen. Dies tue ich, indem ich in der täglichen Arbeit zeige:
 Seit einigen Jahren fühle ich mich in der **Funktionalen Programmierung** zu
 Hause, habe aber auch reichlich Erfahrung mit "klassischen" Paradigmen sammeln
 dürfen. Als **polyglotter Entwickler**, schaue ich mir gerne neue Sprachen an
-und versuche deren Besonderheiten und Stärken zu erkennen und zu nutzen. Ich habe Produktionscode in TypeScript, Clojure, Ruby und Go geschrieben, nur um die zuletzt benutzten zu nennen.
+und versuche deren Besonderheiten und Stärken zu erkennen und zu nutzen. Ich habe
+Produktionscode in _TypeScript_, _Clojure_, _Ruby_ und _Go_ geschrieben, nur um die 
+zuletzt benutzten Sprachen zu nennen.
 
 Immer wenn ich etwas länger in Projekten verweile, ergibt es sich, dass ich
 mit Kolleg*innen **Communities of Practice** (z.B. Softwarecraft, Testing)

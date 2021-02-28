@@ -1,5 +1,17 @@
 <img class="head" src="/assets/work.png">
 
+* For a gaming start-up in the UK, I **led the backend development team**, which 
+  provided the logic and the content for the different game clients via a
+  GraphQL API. 
+  Additionally we built several tools to administrate and manage the content of 
+  the game.  
+  _TypeScript_, _Ruby on Rails_, _Clojure_, _Go_, _GraphQL_
+
+* We **migrated a legacy REST API to a new GraphQL API**, extracting small 
+  services from the monolith where useful. All while keeping the service 
+  continuously available to our user base.  
+  _TypeScript_, _Ruby on Rails_, _Clojure_, _Go_, _GraphQL_, _AWS_, _Terraform_
+  
 * For a big German eCommerce platform, my team and I built a recommendation
   solution with a polyglot microservice architecture. And as good DevOps,
   we ran the operation ourselves.  

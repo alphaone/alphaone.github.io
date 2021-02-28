@@ -18,8 +18,8 @@ For a couple of years I feel like a part of the **functional programming** commu
 but also had the chance to gain a lot of experience with "classical" paradigms.
 As a **polyglot developer**, I look into new languages and concepts every now and then
 and try to recognize and leverage their unique strengths. I have written 
-production code in TypeScript, Clojure, Ruby and Go, just to name the most 
-recent ones. 
+production code in _TypeScript_, _Clojure_, _Ruby_ and _Go_, just to name the 
+most recent used languages. 
 
 Whenever I am in a project for a longer time, I tend to establish **communities of
 practice** (e.g. software craft, testing) with colleagues of mine, to encourage
