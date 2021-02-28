@@ -30,5 +30,5 @@ to see further than the end of my own nose.
 To be able to successfully bring our ideas of modern software development into 
 the world, I **founded a company** named [inoxio Quality Services GmbH](https://inoxio.de) 
 together with two friends in 2007. Since then countless projects all
-over Germany utilized our know-how in the fields of development, testing, and 
-operations.
+over Germany and Europe utilized our know-how in the fields of development, 
+testing, and operations.
