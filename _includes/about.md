@@ -17,7 +17,9 @@ I do that by setting a good example and showing during my daily work how to:
 For a couple of years I feel like a part of the **functional programming** community, 
 but also had the chance to gain a lot of experience with "classical" paradigms.
 As a **polyglot developer**, I look into new languages and concepts every now and then
-and try to recognize and leverage their unique strengths. 
+and try to recognize and leverage their unique strengths. I have written 
+production code in TypeScript, Clojure, Ruby and Go, just to name the most 
+recent ones. 
 
 Whenever I am in a project for a longer time, I tend to establish **communities of
 practice** (e.g. software craft, testing) with colleagues of mine, to encourage
