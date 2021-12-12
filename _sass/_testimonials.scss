@@ -1,15 +1,14 @@
 section.testimonials {
-  
   blockquote {
     margin: 0;
     border-left: 10px solid #eee;
     padding-left: 1em;
-    
+
     strong {
-      background-color: #fbf2b1;
+      background-color: #e8c170;
     }
   }
-  
+
   cite {
     display: block;
     .name {
@@ -20,7 +19,7 @@ section.testimonials {
       font-size: 80%;
       color: #bbb;
     }
-    
+
     margin-left: 2em;
   }
 }
