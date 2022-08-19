@@ -1,6 +1,15 @@
 @charset "utf-8";
 @import "breakpoints";
 
+@font-face {
+  font-family: Roboto;
+  src: url(Roboto-Regular.ttf);
+}
+@font-face {
+  font-family: Cormorant;
+  src: url(Cormorant-Regular.ttf);
+}
+
 body {
   background-color: white;
   color: #222;
