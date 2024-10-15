@@ -1,5 +1,5 @@
 <img class="profile" src="/assets/torsten.png">
-My name is Torsten Mangner. I am a software developer and quality expert.
+My name is **Torsten Mangner**. I am a software developer and quality expert.
 
 I am very interested in getting to know you and your project. Maybe there is a
 chance that I can support you.
