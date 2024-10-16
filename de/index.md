@@ -9,6 +9,7 @@ lang: de
 ## Hallo
 
 {% include de/hello.md %}
+
 </section>
 
 <section class="about" markdown="1">
@@ -16,6 +17,7 @@ lang: de
 ## Wer bin ich?
 
 {% include de/about.md %}
+
 </section>
 
 <section class="work" markdown="1">
@@ -23,6 +25,7 @@ lang: de
 ## Was habe ich bisher getan?
 
 {% include de/work.md %}
+
 </section>
 
 <section class="beliefs" markdown="1">
@@ -30,19 +33,23 @@ lang: de
 ## Woran glaube ich?
 
 {% include de/beliefs.md%}
+
 </section>
 
 <section class="testimonials" markdown="1">
+<a name="testimonials">
 
 ## Was sagen ehemalige Kollegen?
 
 {% include testimonials.md%}
+
 </section>
 
 <section class="contact" markdown="1">
 <a name="contact">
 
-## Schreiben Sie mir
+## Kontaktieren Sie mich
 
 {% include de/contact.md%}
+
 </section>
