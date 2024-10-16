@@ -67,8 +67,9 @@ section + section {
 section strong,
 section em {
   font-weight: inherit;
-  border-radius: 3px;
-  padding: 0 5px;
+  border-radius: 8px 2px 4px 2px;
+  text-shadow: 1px 1px 1px #ffffffd0;
+  padding: 2px 5px;
 }
 
 section img.head {
@@ -78,6 +79,9 @@ section img.head {
 }
 
 section.hello {
+  strong {
+    background-color: #eeeeeed0;
+  }
   img.profile {
     display: block;
     margin: 0 auto 1em;
@@ -90,14 +94,11 @@ section.hello {
       margin: 0 1em 1em 0;
     }
   }
-  strong {
-    background-color: #ddd;
-  }
 }
 
 section.about {
   strong {
-    background-color: #d0da91;
+    background-color: #d0da91d0;
   }
 
   img.about {
@@ -109,10 +110,10 @@ section.about {
 
 section.work {
   strong {
-    background-color: #a4dddb;
+    background-color: #a4dddbd0;
   }
   em {
-    background-color: #eee;
+    background-color: #eeeeeed0;
   }
 
   img.work {
@@ -124,7 +125,7 @@ section.work {
 
 section.beliefs {
   strong {
-    background-color: #df84a5;
+    background-color: #df84a5d0;
   }
 }
 
