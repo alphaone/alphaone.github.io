@@ -100,12 +100,6 @@ section.about {
   strong {
     background-color: #d0da91d0;
   }
-
-  img.about {
-    height: 75px;
-    display: block;
-    margin: 0 auto;
-  }
 }
 
 section.work {
@@ -115,17 +109,17 @@ section.work {
   em {
     background-color: #eeeeeed0;
   }
-
-  img.work {
-    height: 75px;
-    display: block;
-    margin: 0 auto;
-  }
 }
 
 section.beliefs {
   strong {
     background-color: #df84a5d0;
+  }
+
+  img.illustration {
+    height: 150px;
+    display: block;
+    margin: 0 auto;
   }
 }
 

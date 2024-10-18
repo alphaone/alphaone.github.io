@@ -1,25 +1,22 @@
 <img class="head" src="/assets/belief.png">
 
-In case that your beliefs do not match mine, we should definitely 
+In case that your beliefs do not match mine, we should definitely
 [have a word](#contact).
 I would love to hear which principles are making your projects successful.
 
-### There is no silver bullet 
+### There is no silver bullet
 
 There are no best practices. No single technology can be the answer to an existing problem.
 Each challenge has to be seen in the context of the current circumstances.
 
 ### Continuous Improvement
 
-```
-1.01 ^ 365 = 37.78 
-0.99 ^ 365 =  0.02
-```
+<img class="illustration" src="/assets/365.png">
 
 Only if a team wants to improve itself every single day, it can achieve great things.
 Retrospectives with their **blameless causal investigation** are cornerstones for the
-continuous improvement of a team. Small experiments with measurable results help to 
-adapt the team's structure and mode of operation to its current needs.   
+continuous improvement of a team. Small experiments with measurable results help to
+adapt the team's structure and mode of operation to its current needs.
 
 ### Quality
 
@@ -38,11 +35,11 @@ deliver a clearer picture of internal processes of a system.
 
 ### Test pyramid
 
-Too many tests on the wrong level of the test pyramid make your tests slow, 
+Too many tests on the wrong level of the test pyramid make your tests slow,
 unstable, unnecessarily complicated, and hard to maintain. In the same time,
 you lose the biggest advantage of a good test suite: your ability to make changes
 with confidence.
 
 A **nicely balanced test pyramid**, on the other hand, gives you fast feedback, shows
-which change led to unwanted side effects and verifies both the correctness of single 
+which change led to unwanted side effects and verifies both the correctness of single
 components and their proper interaction.
