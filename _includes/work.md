@@ -1,12 +1,15 @@
 <img class="head" src="/assets/work.png">
 
-- For a gaming start-up in the UK, I **led the backend development team**, which
-  provided the logic and the content for the different game clients via a
-  GraphQL API.
+- For a gaming start-up in the UK, **I lead the backend development team** and
+  designed, implemented and maintained a **Event-driven microservice
+  architecture** that served as a backend for an upcoming high-volume mobile
+  game.  
+  _TypeScript_, _Go_, _MongoDB_, _Kafka_
+- I led the backend development team, which provided the logic and the content
+  for the different game clients via a GraphQL API.
   Additionally we built several tools to administrate and manage the content of
   the game.  
   _TypeScript_, _Ruby on Rails_, _Clojure_, _Go_, _GraphQL_
-
 - We **migrated a legacy REST API to a new GraphQL API**, extracting small
   services from the monolith where useful. All while keeping the service
   continuously available to our user base.  
@@ -25,23 +28,12 @@
 - Since in complex systems insufficient transparency is often jointly responsible
   for poor quality, I established holistic monitoring and alerting solutions
   for different projects.  
-  _Clojure_, _ClojureScript_, _Prometheus_, _Grafana_, _Graphite_, _Kibana_
-- Besides time series data teams often have to boldly visualize team specific data.
-  I developed tools so that the teams can monitor that information with ease.
-  These tools showed amongst others:
-
-  - for each repo, the number of commits, that are not deployed to LIVE yet
-  - the state of all autoscaling instances in the cloud
-  - the run time and status of long-running jobs
-  - the quality of various recommendation types, so that stakeholders can evaluate those better
-
-  _Clojure_, _Ruby_, _Python_, _Go_, _HTML_, _SCSS_, _Javascript_, diverse Service-APIs
-
+  _TypeScript_, _Go_, _Clojure_, _ClojureScript_, _Prometheus_, _Grafana_, _OpenTelemetry_
 - Software, that isn't maintained, rots away quickly. I have always a special interest
   to **improve the code quality** of the software I am working on **as a daily routine**.
   At the end of the day, I want to have less technical debt, better test coverage or less
   accidental complexity in the system.
 
-If you need a traditional CV with a list of all my skills, known languages or tools
-and all projects that I worked on, you can find that here:
-[Profile Torsten Mangner](/assets/profil_torsten_mangner.pdf).
+If you need a traditional CV with a list of all my skills, known languages or
+tools and all projects that I worked on, you can find that here: [Profile
+Torsten Mangner](/assets/profil_torsten_mangner.pdf).

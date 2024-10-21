@@ -9,6 +9,16 @@ I would love to hear which principles are making your projects successful.
 There are no best practices. No single technology can be the answer to an existing problem.
 Each challenge has to be seen in the context of the current circumstances.
 
+### Delivering Value
+
+The goal is not doing 30 sprints straight, or to poker with story points, or to
+measure the team's performance with artificial metrics. While those things can
+be a means to an end they should never distract from the original goal.
+
+In the end we want to deliver value for our stakeholders (and by implication
+for our customers). And we do this **quickly, reliably and with consistently high
+quality**.
+
 ### Continuous Improvement
 
 <img class="illustration" src="/assets/365.png">

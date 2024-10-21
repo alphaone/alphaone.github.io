@@ -6,10 +6,19 @@ Prinzipien Sie ihre Projekte erfolgreich meistern.
 
 ### There is no silver bullet
 
-Es gibt keine Best Practices. Keine einzelne
-Technologie kann die Antwort auf bestehende Probleme sein.
-Jede Herausforderung muss in ihrem Kontext der aktuellen Gegebenheiten gesehen
-werden.
+Es gibt keine Best Practices. Keine einzelne Technologie kann die Antwort auf
+bestehende Probleme sein. Jede Herausforderung muss in ihrem Kontext der
+aktuellen Gegebenheiten gesehen werden.
+
+### Delivering Value
+
+Das Ziel ist es nicht 30 Sprints am Stück zu bestreiten, mit Story-Points
+zu pokern oder die Team-Performance in künstlichen Metriken zu bewerten.
+Diese Dinge können höchstens Mittel zum Zweck sein und sollten nie vom
+eigentlichen Ziel ablenken.
+
+Letztendlich wollen wir Mehrwert für die Stakeholder (und damit für den Kunden)
+liefern. Und das **schnell, zuverlässig und in nachhaltig hoher Qualität**.
 
 ### Continuous Improvement
 
